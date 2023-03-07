@@ -1,5 +1,6 @@
 
-![2641099](https://user-images.githubusercontent.com/115586420/223427121-06e47e91-37d0-464e-a291-a107bb38efe0.gif)
+![60a58511e5c70a418ac743f7df8134fa](https://user-images.githubusercontent.com/115586420/223429730-33b15b47-416f-4740-8a63-e082aede8297.gif)
+
 
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
