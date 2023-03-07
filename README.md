@@ -1,9 +1,11 @@
-### Hi there 👋
+
+![2641099](https://user-images.githubusercontent.com/115586420/223427121-06e47e91-37d0-464e-a291-a107bb38efe0.gif)
 
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some i
+deas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
