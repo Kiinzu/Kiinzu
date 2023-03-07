@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="./maxresdefault-removebg (1).png">
+  <img width="180" height="100" src="./maxresdefault-removebg (1).png">
 <p/>
 
 <!--
