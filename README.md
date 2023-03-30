@@ -8,7 +8,7 @@ Hi I'm Richard Tan, a Cyber Security Student from Indonesia. I'm on my Journey t
 </p>  
 
 <a href="https://www.instagram.com/t_wxu86/">
-  <img align="left" alt="twx_instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="twx_instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 <!--
