@@ -7,7 +7,7 @@
   <img width="320" height="200" src="./kiinzu.png">
 <p/>
 <div align=center>
-  <br>Hi I'm Richard Tan, a Cyber Security Student from Indonesia. I'm on my Journey to explore what the Cyber Security World has to offer, also Blockchain world.      Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!</br>
+  <br>Hi I'm Richard, a Cyber Security Student from Indonesia. I'm on my Journey to explore what the Cyber Security World has to offer, also Blockchain world.      Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!</br>
 </div>
 <br></br>
 
