@@ -3,7 +3,7 @@
 <p/>
 
 <h1 align=center> ようこそ❗❕</h1>
-
+<h1 align=center> Kiinzu へ</h1>
 <p align=center>
 Welcome to my Github, here's a quick brief of what you can find in my github Repos  
 - 
