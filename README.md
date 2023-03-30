@@ -7,27 +7,9 @@
 Hi I'm Richard Tan, a Cyber Security Student from Indonesia. I'm on my Journey to explore what the Cyber Security World has to offer, also Blockchain world. Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!
 </p>  
 
-Here is a short summary of the content you can find here.  
-
-**BlockMind**  
-Learning Blockchain Security, Development, and Tools 
-  - 🌱 30 Days Blockchain ( in progress )
-  - 🛠️ Tools
-  - 📰 Writeups
-  - 
-**Pentesting**    
-Everything about pentest, this include
-  - 📱 Mobile Pentest
-  - 🌐 Web & Network Pentest
-  - 📰 Writeups for HTB, THM, VulnHub Machines
-  - 
-**Defensive Security**
-Everything about Blue Team
-  - 📘Notes
-  - 📰Writeups for Blue Team Learning Platforms
-
-**CTF Writeups**
-Writeup for CTFs
+<a href="https://www.instagram.com/t_wxu86/">
+  <img align="left" alt="twx_instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
