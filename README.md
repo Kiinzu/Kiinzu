@@ -3,11 +3,19 @@
 <p/>
 
 <h1 align=center> ようこそ❗❕</h1>
-<h1 align=center> Kiinzu へ</h1>
 <p align=center>
-Welcome to my Github, here's a quick brief of what you can find in my github Repos  
-- 
+Welcome to my Github page, here's a quick brief of what you can find in my github Repos  
 </p>
+- BlockMind : Dedicated Repo for learning Blockchain Security, Development, and Tools that will help you through the process
+  - 🌱 30 Days Blockchain
+  - 🛠️ Tools
+  - 📰 Writeups
+- Pentesting : Everything about pentest, this include
+  - 📱Mobile Pentest
+  - 🌐Web Pentest
+  - 📶Network Pentest
+  - Writeups for HTB and THM Machines
+
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
