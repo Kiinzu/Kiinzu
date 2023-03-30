@@ -2,9 +2,10 @@
   <img width="180" height="100" src="./maxresdefault-removebg (1).png">
 <p/>
 
+<h1 align=center> ようこそ❗❕</h1>
+
 <p align=center>
-  <h1 align=center> ようこそ❗❕</h1>
-Welcome to my Github, here's a quick brief of what you can find in my github Repos
+Welcome to my Github, here's a quick brief of what you can find in my github Repos  
 - 
 </p>
 <!--
