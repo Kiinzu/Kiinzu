@@ -5,7 +5,8 @@
 <h1 align=center> ようこそ❗❕</h1>
 <p align=center>
 Welcome to my Github page, here's a quick brief of what you can find in my github Repos  
-</p>
+</p>  
+
 - BlockMind : Dedicated Repo for learning Blockchain Security, Development, and Tools that will help you through the process
   - 🌱 30 Days Blockchain
   - 🛠️ Tools
