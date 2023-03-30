@@ -3,13 +3,15 @@
 <p/>
 
 <h1 align=center> ようこそ❗❕</h1>
-<p align=center>
-Hi I'm Richard Tan, a Cyber Security Student from Indonesia. I'm on my Journey to explore what the Cyber Security World has to offer, also Blockchain world. Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!
-</p>  
+<br>Hi I'm Richard Tan, a Cyber Security Student from Indonesia. I'm on my Journey to explore what the Cyber Security World has to offer, also Blockchain world. Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!</br>
+<br></br>
 
-<a href="https://www.instagram.com/t_wxu86/">
-  <img align=center alt="twx_instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<p align=center href="https://www.instagram.com/t_wxu86/">
+  <img alt="twx_instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
+</p>
+<p align=center href="https://www.linkedin.com/in/richard-tan-a21960214/">
+  <img alt="twx_linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+</p>
 
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
