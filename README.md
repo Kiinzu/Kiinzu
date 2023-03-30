@@ -3,7 +3,8 @@
 <p/>
 
 <p align=center>
-  <h1 align=center> Hey! </h1>
+  <h1 align=center> ようこそ❗❕</h1>
+  
 </p>
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
