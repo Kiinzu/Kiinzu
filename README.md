@@ -14,15 +14,18 @@ Learning Blockchain Security, Development, and Tools
   - 🌱 30 Days Blockchain ( in progress )
   - 🛠️ Tools
   - 📰 Writeups
+  - 
 **Pentesting**    
 Everything about pentest, this include
   - 📱 Mobile Pentest
   - 🌐 Web & Network Pentest
   - 📰 Writeups for HTB, THM, VulnHub Machines
+  - 
 **Defensive Security**
 Everything about Blue Team
   - 📘Notes
   - 📰Writeups for Blue Team Learning Platforms
+
 **CTF Writeups**
 Writeup for CTFs
 
