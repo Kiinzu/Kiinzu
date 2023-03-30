@@ -7,11 +7,13 @@
 Welcome to my Github page, here's a quick brief of what you can find in my github Repos  
 </p>  
 
-- BlockMind : Dedicated Repo for learning Blockchain Security, Development, and Tools that will help you through the process
+## BlockMind
+#### Dedicated Repo for learning Blockchain Security, Development, and Tools that will help you through the process
   - 🌱 30 Days Blockchain
   - 🛠️ Tools
   - 📰 Writeups
-- Pentesting : Everything about pentest, this include
+## Pentesting  
+#### Everything about pentest, this include
   - 📱Mobile Pentest
   - 🌐Web Pentest
   - 📶Network Pentest
