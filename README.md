@@ -4,20 +4,27 @@
 
 <h1 align=center> ようこそ❗❕</h1>
 <p align=center>
-Welcome to my Github page, here's a quick brief of what you can find in my github Repos  
+Hi I'm Richard Tan, a Cyber Security Student from Indonesia. I'm on my Journey to explore what the Cyber Security World has to offer, also Blockchain world. Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!
 </p>  
 
-## BlockMind
-#### Dedicated Repo for learning Blockchain Security, Development, and Tools that will help you through the process
-  - 🌱 30 Days Blockchain
+Here is a short summary of the content you can find here.  
+
+**BlockMind**  
+Learning Blockchain Security, Development, and Tools 
+  - 🌱 30 Days Blockchain ( in progress )
   - 🛠️ Tools
   - 📰 Writeups
-## Pentesting  
-#### Everything about pentest, this include
-  - 📱Mobile Pentest
-  - 🌐Web Pentest
-  - 📶Network Pentest
-  - Writeups for HTB and THM Machines
+**Pentesting**    
+Everything about pentest, this include
+  - 📱 Mobile Pentest
+  - 🌐 Web & Network Pentest
+  - 📰 Writeups for HTB, THM, VulnHub Machines
+**Defensive Security**
+Everything about Blue Team
+  - 📘Notes
+  - 📰Writeups for Blue Team Learning Platforms
+**CTF Writeups**
+Writeup for CTFs
 
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
