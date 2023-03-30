@@ -2,7 +2,7 @@
   <img width="180" height="100" src="./maxresdefault-removebg (1).png">
 <p/>
 
-<h1 align=center> ようこそ❗❕</h1>
+<h1 align=center>❗ようこそ❕</h1>
 <br>Hi I'm Richard Tan, a Cyber Security Student from Indonesia. I'm on my Journey to explore what the Cyber Security World has to offer, also Blockchain world. Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!</br>
 <br></br>
 
