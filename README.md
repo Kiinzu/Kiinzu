@@ -4,7 +4,8 @@
 
 <p align=center>
   <h1 align=center> ようこそ❗❕</h1>
-  
+Welcome to my Github, here's a quick brief of what you can find in my github Repos
+- 
 </p>
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
