@@ -12,8 +12,13 @@
 <br></br>
 
 <p float=center align=center> 
-    <img alt="twx_instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" href="https://www.instagram.com/t_wxu86/"> &nbsp
-    <img alt="twx_linkedin" width="90px" src="./Linkedin-logo-png.png" href="https://www.linkedin.com/in/richard-tan-a21960214/">
+    <a href="https://www.instagram.com/t_wxu86/">
+        <img alt="twx_instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/richard-tan-a21960214/">
+        <img alt="twx_linkedin" width="90px" src="./Linkedin-logo-png.png">
+    </a>
 </p>
 <!--
 **AKROM-A/AKROM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
